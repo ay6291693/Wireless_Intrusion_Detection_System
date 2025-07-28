@@ -1,0 +1,10 @@
+1. Open CMD Create a folder "AI-Based Wireless Intrusion Detection System".
+2. Create virtual env --> python -m venv .myenv
+3. Activate env--> .myenv\Scripts\activate
+4. Install libraries from requirment.txt --> pip install -r requirment.txt
+
+5. Create a folder in same project directory name "Wifi_Logs".
+6. Run the main.py file --> It will save the log file, after clicking "Save log" or "Closing the app"
+
+7. Open PowerBI report & modify the source of it to generated log file.
+8. Refresh dashboard the data will be available.
